@@ -12,10 +12,12 @@ shared here in a generic form.
 - [Local LLM evaluation for security advisory extraction](https://github.com/KhelifiAmine/local-llm-advisory-extraction):
   comparison of six small local models for extracting structured fields from advisories without inventing data
 
+- [Secure multi-site enterprise network](https://github.com/KhelifiAmine/secure-multisite-network-gns3):
+  GNS3 lab with an MPLS L3VPN backbone, GRE/IPsec backup link, pfSense and Snort, hardened services and a penetration test
+
 Coming soon:
 
 - Real-time security monitoring lab (pfSense, Snort, Kafka, Spark, ELK)
-- Multi-site enterprise network in GNS3 (MPLS/BGP, IPsec, pfSense)
 
 ### Contact
 

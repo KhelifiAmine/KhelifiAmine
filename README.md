@@ -9,9 +9,11 @@ shared here in a generic form.
 
 ### Projects
 
+- [Local LLM evaluation for security advisory extraction](https://github.com/KhelifiAmine/local-llm-advisory-extraction):
+  comparison of six small local models for extracting structured fields from advisories without inventing data
+
 Coming soon:
 
-- Comparison of local language models for extracting structured data from security advisories
 - Real-time security monitoring lab (pfSense, Snort, Kafka, Spark, ELK)
 - Multi-site enterprise network in GNS3 (MPLS/BGP, IPsec, pfSense)
 

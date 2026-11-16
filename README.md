@@ -15,9 +15,8 @@ shared here in a generic form.
 - [Secure multi-site enterprise network](https://github.com/KhelifiAmine/secure-multisite-network-gns3):
   GNS3 lab with an MPLS L3VPN backbone, GRE/IPsec backup link, pfSense and Snort, hardened services and a penetration test
 
-Coming soon:
-
-- Real-time security monitoring lab (pfSense, Snort, Kafka, Spark, ELK)
+- [Real-time SIEM pipeline](https://github.com/KhelifiAmine/realtime-siem-kafka-spark-elk):
+  Snort alerts from pfSense streamed through Kafka and Spark into Elasticsearch, with attack classification in Kibana
 
 ### Contact
 

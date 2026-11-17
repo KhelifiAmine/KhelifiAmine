@@ -3,20 +3,17 @@
 Cybersecurity student in Tunis. Bachelor's in Networks and IT Services (ISET Nabeul, 2026),
 now in a cybersecurity engineering program at TEK-UP University.
 
-My end-of-studies internship was at EY Tunisia, where I worked on an internal platform for collecting
-and triaging vulnerability and threat information. That code is not public; some components will be
-shared here in a generic form.
-
 ### Projects
 
-- [Local LLM evaluation for security advisory extraction](https://github.com/KhelifiAmine/local-llm-advisory-extraction):
-  comparison of six small local models for extracting structured fields from advisories without inventing data
+- [Cyber Threat Watch](https://github.com/KhelifiAmine/cyber-threat-watch) (end-of-studies internship, EY Tunisia, 2026):
+  threat-intelligence platform that collects vulnerabilities and threat reports from public sources, classifies them
+  against MITRE ATT&CK, matches them to client asset inventories and helps analysts prepare advisories. De-branded code.
 
-- [Secure multi-site enterprise network](https://github.com/KhelifiAmine/secure-multisite-network-gns3):
-  GNS3 lab with an MPLS L3VPN backbone, GRE/IPsec backup link, pfSense and Snort, hardened services and a penetration test
-
-- [Real-time SIEM pipeline](https://github.com/KhelifiAmine/realtime-siem-kafka-spark-elk):
+- [Real-time SIEM pipeline](https://github.com/KhelifiAmine/realtime-siem-kafka-spark-elk) (Tunisie Telecom, 2026):
   Snort alerts from pfSense streamed through Kafka and Spark into Elasticsearch, with attack classification in Kibana
+
+- [Secure multi-site enterprise network](https://github.com/KhelifiAmine/secure-multisite-network-gns3) (Tunisie Telecom, 2025):
+  GNS3 lab with an MPLS L3VPN backbone, GRE/IPsec backup link, pfSense and Snort, hardened services and a penetration test
 
 ### Contact
 

@@ -20,4 +20,4 @@ shared here in a generic form.
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/amine-khelifi-01a5b7435/)
+[LinkedIn](https://www.linkedin.com/in/mohamed-amine-khelifi-01a5b7435/)
